@@ -7,5 +7,6 @@ namespace Model.Movies
         public string rating { get; set; }
         public string genre { get; set; }
         public int duration { get; set; }
+        
     }
 }
