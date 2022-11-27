@@ -7,5 +7,6 @@ string fileName = @"C:\Users\sengu\Desktop\HtmlTableGenerator\movies.json";
 string jsonString = File.ReadAllText(fileName);
 List<Movies> Movie = JsonSerializer.Deserialize<List<Movies>>(jsonString)!;
 lib lb=new lib();
-lb.HtmlAsList(Movie);
+lb.FileWriter(lb.HtmlAsList(Movie));
+
 
