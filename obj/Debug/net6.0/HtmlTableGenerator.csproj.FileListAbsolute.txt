@@ -1,0 +1,15 @@
+C:\Users\sengu\Desktop\HtmlTableGenerator\bin\Debug\net6.0\HtmlTableGenerator.exe
+C:\Users\sengu\Desktop\HtmlTableGenerator\bin\Debug\net6.0\HtmlTableGenerator.deps.json
+C:\Users\sengu\Desktop\HtmlTableGenerator\bin\Debug\net6.0\HtmlTableGenerator.runtimeconfig.json
+C:\Users\sengu\Desktop\HtmlTableGenerator\bin\Debug\net6.0\HtmlTableGenerator.dll
+C:\Users\sengu\Desktop\HtmlTableGenerator\bin\Debug\net6.0\HtmlTableGenerator.pdb
+C:\Users\sengu\Desktop\HtmlTableGenerator\obj\Debug\net6.0\HtmlTableGenerator.csproj.AssemblyReference.cache
+C:\Users\sengu\Desktop\HtmlTableGenerator\obj\Debug\net6.0\HtmlTableGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sengu\Desktop\HtmlTableGenerator\obj\Debug\net6.0\HtmlTableGenerator.AssemblyInfoInputs.cache
+C:\Users\sengu\Desktop\HtmlTableGenerator\obj\Debug\net6.0\HtmlTableGenerator.AssemblyInfo.cs
+C:\Users\sengu\Desktop\HtmlTableGenerator\obj\Debug\net6.0\HtmlTableGenerator.csproj.CoreCompileInputs.cache
+C:\Users\sengu\Desktop\HtmlTableGenerator\obj\Debug\net6.0\HtmlTableGenerator.dll
+C:\Users\sengu\Desktop\HtmlTableGenerator\obj\Debug\net6.0\refint\HtmlTableGenerator.dll
+C:\Users\sengu\Desktop\HtmlTableGenerator\obj\Debug\net6.0\HtmlTableGenerator.pdb
+C:\Users\sengu\Desktop\HtmlTableGenerator\obj\Debug\net6.0\HtmlTableGenerator.genruntimeconfig.cache
+C:\Users\sengu\Desktop\HtmlTableGenerator\obj\Debug\net6.0\ref\HtmlTableGenerator.dll
